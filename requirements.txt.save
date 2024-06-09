@@ -1,0 +1,4 @@
+Django==4.2.3
+psycopg2-binary==2.9.3
+pika==1.2.0
+torch==1.11.0
