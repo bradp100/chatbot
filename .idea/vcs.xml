@@ -4,6 +4,5 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/helpdesk-assistant" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rasa" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rasa_backup/rasa" vcs="Git" />
   </component>
 </project>
