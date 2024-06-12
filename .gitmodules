@@ -2,9 +2,6 @@
 	path = rasa
 	url = https://github.com/bradp100/rasa
 	branch = main
-[submodule "helpdesk-assistant"]
-	path = helpdesk-assistant
-	url = https://github.com/bradp100/helpdesk-assistant
 [submodule "rasa_backup/rasa"]
 	path = rasa_backup/rasa
 	url = https://github.com/bradp100/rasa_backup
